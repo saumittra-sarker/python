@@ -1,0 +1,1 @@
+print("Mori I love you")
